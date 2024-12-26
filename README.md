@@ -13,7 +13,7 @@ I'm a passionate Python Developer with extensive experience in automation, web d
 ---
 
 ### 🚀 Skills
-- **Automation**: Python, Selenium, Robot Framework, API integrations
+- **Automation**: Python, Selenium, Robot Framework, API integrations , Appium
 - **Web Development**: Django, Flask
 - **Database**: MongoDB, SQLite
 - **Data Analysis**: Pandas
